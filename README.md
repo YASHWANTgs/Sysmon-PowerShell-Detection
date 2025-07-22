@@ -29,5 +29,5 @@ Execution-PowerShell-T1059.001
 Defensive Evasion-Obfucatted Commands-T1027
 
 # Outcome 
-This Project demonstrates real-worlddetection caability for obfuscated script execution.
+This Project demonstrates real-world detection caability for obfuscated script execution.
 
