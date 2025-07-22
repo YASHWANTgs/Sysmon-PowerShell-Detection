@@ -24,7 +24,7 @@ The main goal of this project is to identifying suspicious powershell activity o
 
 First installed Sysmon with a config that logs Powershell Scri[pt blocks, Ran a base64-encoded Powershell command mimicking an attacker,Observed Event ID 4104 in Event Viewer under :Applications and Services Logs > Microsoft > Windows > PowerShell > Operational`, Collected the screenshots.
 
-#MITRE ATT&CK Mapping 
+# MITRE ATT&CK Mapping 
 Execution-PowerShell-T1059.001
 Defensive Evasion-Obfucatted Commands-T1027
 
