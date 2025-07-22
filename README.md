@@ -1,4 +1,4 @@
-# Detectiong Obfuscated PowerShell Activiry uding Sysmon
+# Detectiong Obfuscated PowerShell Activiry using Sysmon
 
 The main goal of this project is to identifying suspicious powershell activity on a windows system suing **Sysmon**.This has been done by manually excecuting base64-encoded PowerShell command. This simulates a specific attack behavior **Event ID 4104** - which logs script block execution.
 
